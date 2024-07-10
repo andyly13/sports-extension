@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    height: 400px;
+  }
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f1f1f1;
+
+  }
+  h1 {
+    font-size: 18px;
+    margin: 0;
+  }
+
+  .button-container{
+    display: flex;
+    gap: 5px;
+  }
+
+  .team-logo{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px
+  }
+  .team-name{
+    padding-top: 2px;
+  }
+  .team-item{
+    display: flex;
+  }
+
+
+  
